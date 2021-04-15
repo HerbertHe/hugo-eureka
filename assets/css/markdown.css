@@ -59,7 +59,7 @@
 }
 
 .content code {
-  @apply font-mono text-sm text-tertiary-text inline bg-tertiary-bg rounded p-1;
+  @apply font-mono text-sm text-tertiary-text inline bg-tertiary-bg rounded px-1 py-0;
 }
 
 .content pre {
@@ -106,5 +106,3 @@
   padding-top: 4rem;
   margin-top: -4rem;
 }
-
-
